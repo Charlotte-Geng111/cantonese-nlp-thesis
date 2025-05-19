@@ -1,5 +1,4 @@
-# cantonese-nlp-thesis: 
-Cantonese Sentiment Analysis with Large Language Models
+# cantonese-nlp-thesis: Cantonese Sentiment Analysis with Large Language Models
 
 ## Project Overview
 
